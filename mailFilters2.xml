@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:1492470865756,1492471768873,1492473997502,1494557411592</id>
+	<updated>2017-05-13T01:48:32Z</updated>
+	<author>
+		<name>Matthew Cowsert</name>
+		<email>mtc434@stern.nyu.edu</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1492470865756</id>
+		<updated>2017-05-13T01:48:32Z</updated>
+		<content></content>
+		<apps:property name='hasTheWord' value='list:(&lt;mba1blk5.stern.nyu.edu&gt;)'/>
+		<apps:property name='label' value='1.NYU STERN'/>
+		<apps:property name='forwardTo' value='cowsertm1.73dd1@m.evernote.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1492471768873</id>
+		<updated>2017-05-13T01:48:32Z</updated>
+		<content></content>
+		<apps:property name='from' value='cowsertm1@gmail.com'/>
+		<apps:property name='label' value='@@TODO'/>
+		<apps:property name='forwardTo' value='cowsertm1.73dd1@m.evernote.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1492473997502</id>
+		<updated>2017-05-13T01:48:32Z</updated>
+		<content></content>
+		<apps:property name='to' value='mtc434+newsletters@stern.nyu.edu'/>
+		<apps:property name='forwardTo' value='cowsertm1.73dd1@m.evernote.com'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:1494557411592</id>
+		<updated>2017-05-13T01:48:32Z</updated>
+		<content></content>
+		<apps:property name='from' value='cowsertm1@gmail.com'/>
+		<apps:property name='forwardTo' value='cowsertm1.73dd1@m.evernote.com'/>
+	</entry>
+</feed>
